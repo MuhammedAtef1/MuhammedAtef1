@@ -6,7 +6,11 @@
 <details>
 <p><strong> <summary> Busy coding & Vibing to: </summary> </strong></p>
 
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
+
 </details>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mohammedatef&style=flat&color=orange&label=PROFILE+VIEWS)
 
 <hr>
 
@@ -25,11 +29,8 @@
 </p>
 
 <div align="center">
-<a href="https://github.com/mohammedatef">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedatef&layout=compact&langs_count=3&hide_title=true&hide_border=true&text_color=000000&bg_color=F0F0F0&custom_title=Top+Languages" width="50%">
+</div>
 
 <hr>
 
